@@ -1,0 +1,7 @@
+./Popfile.Lock
+./db.sqlite3
+
+Pipfile.lock
+.DS_Store
+*.pyc
+.vscode/
